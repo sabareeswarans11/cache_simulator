@@ -1,0 +1,232 @@
+Memory Trace:085.gcc.din
+
+
+1-way associative cache, with 1024 sets.
+################### Cache Simulation Result ###################
+Total memory references in trace:1000000 (read:139816,write:80669,fetch instruction:779515)
+################### Cache parameters ###################
+Cache size:16384
+cache block size:16
+################### Cache statistics ###################
+Number of memory write events:80669
+Number of block placements:1024
+Number of block Replacements:71080
+################### Total No of Hits ###################
+Cache Hits:927896
+################### Total No of Misses ###################
+Cache Misses:72104
+################### Overall ###################
+Cache miss ratio:7.21 %
+######### simulation done ##########
+
+
+4-way associative cache, with 256 sets.
+################### Cache Simulation Result ###################
+Total memory references in trace:1000000 (read:139816,write:80669,fetch instruction:779515)
+################### Cache parameters ###################
+Cache size:16384
+cache block size:16
+################### Cache statistics ###################
+Number of memory write events:80669
+Number of block placements:1024
+Number of block Replacements:32135
+################### Total No of Hits ###################
+Cache Hits:966841
+################### Total No of Misses ###################
+Cache Misses:33159
+################### Overall ###################
+Cache miss ratio:3.32 %
+######### simulation done ##########
+
+
+8-way associative cache, with 128 sets.
+################### Cache Simulation Result ###################
+Total memory references in trace:1000000 (read:139816,write:80669,fetch instruction:779515)
+################### Cache parameters ###################
+Cache size:16384
+cache block size:16
+################### Cache statistics ###################
+Number of memory write events:80669
+Number of block placements:1024
+Number of block Replacements:26924
+################### Total No of Hits ###################
+Cache Hits:972052
+################### Total No of Misses ###################
+Cache Misses:27948
+################### Overall ###################
+Cache miss ratio:2.79 %
+######### simulation done ##########
+Memory Trace:085.gcc.din
+
+
+1-way associative cache, with 1024 sets.
+################### Cache Simulation Result ###################
+Total memory references in trace:1000000 (read:139816,write:80669,fetch instruction:779515)
+################### Cache parameters ###################
+Cache size:32768
+cache block size:32
+################### Cache statistics ###################
+Number of memory write events:80669
+Number of block placements:1024
+Number of block Replacements:30456
+################### Total No of Hits ###################
+Cache Hits:968520
+################### Total No of Misses ###################
+Cache Misses:31480
+################### Overall ###################
+Cache miss ratio:3.15 %
+######### simulation done ##########
+
+
+4-way associative cache, with 256 sets.
+################### Cache Simulation Result ###################
+Total memory references in trace:1000000 (read:139816,write:80669,fetch instruction:779515)
+################### Cache parameters ###################
+Cache size:32768
+cache block size:32
+################### Cache statistics ###################
+Number of memory write events:80669
+Number of block placements:1024
+Number of block Replacements:10288
+################### Total No of Hits ###################
+Cache Hits:988688
+################### Total No of Misses ###################
+Cache Misses:11312
+################### Overall ###################
+Cache miss ratio:1.13 %
+######### simulation done ##########
+
+
+8-way associative cache, with 128 sets.
+################### Cache Simulation Result ###################
+Total memory references in trace:1000000 (read:139816,write:80669,fetch instruction:779515)
+################### Cache parameters ###################
+Cache size:32768
+cache block size:32
+################### Cache statistics ###################
+Number of memory write events:80669
+Number of block placements:1024
+Number of block Replacements:7005
+################### Total No of Hits ###################
+Cache Hits:991971
+################### Total No of Misses ###################
+Cache Misses:8029
+################### Overall ###################
+Cache miss ratio:0.8 %
+######### simulation done ##########
+Memory Trace:085.gcc.din
+
+
+1-way associative cache, with 1024 sets.
+################### Cache Simulation Result ###################
+Total memory references in trace:1000000 (read:139816,write:80669,fetch instruction:779515)
+################### Cache parameters ###################
+Cache size:65536
+cache block size:64
+################### Cache statistics ###################
+Number of memory write events:80669
+Number of block placements:993
+Number of block Replacements:15405
+################### Total No of Hits ###################
+Cache Hits:983602
+################### Total No of Misses ###################
+Cache Misses:16398
+################### Overall ###################
+Cache miss ratio:1.64 %
+######### simulation done ##########
+
+
+4-way associative cache, with 256 sets.
+################### Cache Simulation Result ###################
+Total memory references in trace:1000000 (read:139816,write:80669,fetch instruction:779515)
+################### Cache parameters ###################
+Cache size:65536
+cache block size:64
+################### Cache statistics ###################
+Number of memory write events:80669
+Number of block placements:1024
+Number of block Replacements:3005
+################### Total No of Hits ###################
+Cache Hits:995971
+################### Total No of Misses ###################
+Cache Misses:4029
+################### Overall ###################
+Cache miss ratio:0.4 %
+######### simulation done ##########
+
+
+8-way associative cache, with 128 sets.
+################### Cache Simulation Result ###################
+Total memory references in trace:1000000 (read:139816,write:80669,fetch instruction:779515)
+################### Cache parameters ###################
+Cache size:65536
+cache block size:64
+################### Cache statistics ###################
+Number of memory write events:80669
+Number of block placements:1024
+Number of block Replacements:2117
+################### Total No of Hits ###################
+Cache Hits:996859
+################### Total No of Misses ###################
+Cache Misses:3141
+################### Overall ###################
+Cache miss ratio:0.31 %
+######### simulation done ##########
+Memory Trace:085.gcc.din
+
+
+1-way associative cache, with 1024 sets.
+################### Cache Simulation Result ###################
+Total memory references in trace:1000000 (read:139816,write:80669,fetch instruction:779515)
+################### Cache parameters ###################
+Cache size:131072
+cache block size:128
+################### Cache statistics ###################
+Number of memory write events:80669
+Number of block placements:801
+Number of block Replacements:9367
+################### Total No of Hits ###################
+Cache Hits:989832
+################### Total No of Misses ###################
+Cache Misses:10168
+################### Overall ###################
+Cache miss ratio:1.02 %
+######### simulation done ##########
+
+
+4-way associative cache, with 256 sets.
+################### Cache Simulation Result ###################
+Total memory references in trace:1000000 (read:139816,write:80669,fetch instruction:779515)
+################### Cache parameters ###################
+Cache size:131072
+cache block size:128
+################### Cache statistics ###################
+Number of memory write events:80669
+Number of block placements:954
+Number of block Replacements:643
+################### Total No of Hits ###################
+Cache Hits:998403
+################### Total No of Misses ###################
+Cache Misses:1597
+################### Overall ###################
+Cache miss ratio:0.16 %
+######### simulation done ##########
+
+
+8-way associative cache, with 128 sets.
+################### Cache Simulation Result ###################
+Total memory references in trace:1000000 (read:139816,write:80669,fetch instruction:779515)
+################### Cache parameters ###################
+Cache size:131072
+cache block size:128
+################### Cache statistics ###################
+Number of memory write events:80669
+Number of block placements:994
+Number of block Replacements:419
+################### Total No of Hits ###################
+Cache Hits:998587
+################### Total No of Misses ###################
+Cache Misses:1413
+################### Overall ###################
+Cache miss ratio:0.14 %
+######### simulation done ##########
